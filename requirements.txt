@@ -222,7 +222,8 @@ pynput==1.7.6
 # pyobjc-framework-WebKit==9.0.1
 pyparsing==3.0.9
 pyperclip==1.8.2
-pyppeteer==1.0.2
+pyppeteer==1.25.8
+# pyppeteer==1.0.2
 pyquery==2.0.0
 PyRect==0.2.0
 PyScreeze==0.1.28
@@ -256,7 +257,8 @@ trio==0.22.0
 trio-websocket==0.9.2
 tzdata==2023.3
 uritemplate==4.1.1
-urllib3==2.0.4
+urllib3==1.26.9
+# urllib3==2.0.4
 w3lib==2.1.1
 webdriver-manager==4.0.1
 websockets==10.4
