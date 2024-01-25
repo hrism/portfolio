@@ -264,3 +264,4 @@ webdriver-manager==4.0.1
 websockets==10.4
 wsproto==1.2.0
 zipp==3.16.2
+whitenoise==5.2.0
