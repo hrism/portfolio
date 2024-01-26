@@ -265,4 +265,4 @@ websockets==10.4
 wsproto==1.2.0
 zipp==3.16.2
 whitenoise==5.2.0
-dj-database-url==0.5.0
+dj-database-url==2.1.0
