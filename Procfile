@@ -1,1 +1,1 @@
-web: gunicorn myblog.myblog.wsgi
+web: gunicorn myblog.wsgi:application --chdir myblog
